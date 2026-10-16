@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 24px;
+    font-family: system-ui, sans-serif;
+    line-height: 1.6;
+    background: #0b1220;
+    color: #e8eef7;
+}
+
+h1 {
+    color: #2fb6a8;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+article {
+    background: #16233b;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 12px;
+}
